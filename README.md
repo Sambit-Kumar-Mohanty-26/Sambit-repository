@@ -1,4 +1,4 @@
 # Sambit-repository
 practice git repository
 <br>
-Author-Sambit Mohanty
+Author-Sambit Kumar Mohanty
